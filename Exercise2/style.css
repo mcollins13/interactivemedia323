@@ -1,3 +1,47 @@
 
 body {background: #FFFFCC}
-img {background:#996600; padding: 5px; border-top: 5px}
+
+header {background-color:#996600; border-radius: 20px; 
+		font-size: 25px}
+
+h1 {color:#ffcc00; padding-left: 20px; padding-top: 20px; 
+	padding-bottom: 20px; font-family: Impact}
+h2 {font-family: sans-serif; color:#663300;}
+
+img {background:#996600; padding: 5px; border-top: 10px;}
+
+p {color: #996600}
+
+strong {color:#663300;font-family: sans-serif;}
+
+li { padding-left: 10px; width: 70%; }
+
+
+div ul{background-color: #996600; padding: 10px; border-radius: 20px}
+div ul a:hover
+    {text-decoration: none;
+     color:#FFFFFF;
+    }
+div ul a:visited {color: #663300;text-decoration: none}
+
+ul a:link {color: #ffcc00; text-decoration: none}
+
+ul {list-style-type: none;
+	-moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;}
+    div div ol {color: #996600;}
+ a {text-decoration: none}
+
+#span {text-align: center}
+#oval {
+	width: 300px;
+	height: 200px;
+	background: #996600;
+	-moz-border-radius: 200px / 100px;
+	-webkit-border-radius: 200px / 100px;
+	border-radius: 200px / 100px;
+}
