@@ -1,0 +1,4 @@
+.large {border: 40px solid black;text-align: center;padding: 10px; font-style: italic;}
+.med {border: 25px solid black;text-align: center;padding: 10px;font-style: italic;} 
+.small {border: 15px solid black;text-align: center;padding: 10px;font-style: italic;}
+.tiny {border: 9px solid black;text-align: center;padding: 10px; font-family: impact; letter-spacing: 10px;}

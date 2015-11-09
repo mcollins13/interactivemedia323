@@ -1,0 +1,22 @@
+body{background-color: #1E2128; }
+
+p {color: #66FEF2;  	}
+body {background: rgba(255,93,177,1);
+background: -moz-linear-gradient(top, rgba(255,93,177,1) 0%, rgba(13,30,56,1) 56%, rgba(13,30,56,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,93,177,1)), color-stop(56%, rgba(13,30,56,1)), color-stop(100%, rgba(13,30,56,1)));
+background: -webkit-linear-gradient(top, rgba(255,93,177,1) 0%, rgba(13,30,56,1) 56%, rgba(13,30,56,1) 100%);
+background: -o-linear-gradient(top, rgba(255,93,177,1) 0%, rgba(13,30,56,1) 56%, rgba(13,30,56,1) 100%);
+background: -ms-linear-gradient(top, rgba(255,93,177,1) 0%, rgba(13,30,56,1) 56%, rgba(13,30,56,1) 100%);
+background: linear-gradient(to bottom, rgba(255,93,177,1) 0%, rgba(13,30,56,1) 56%, rgba(13,30,56,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', endColorstr='#0d1e38', GradientType=0 );}
+ .rotate {	-ms-transform: rotate(7deg); 
+    -webkit-transform: rotate(7deg); 
+    transform: rotate(7deg);}
+
+.back {-ms-transform: rotate(-9deg); 
+    -webkit-transform: rotate(-9deg); 
+    transform: rotate(-9deg);}
+ .box {
+ 	 color: #66FEF2;}
+ .textshadow {text-shadow: 2px 2px black; font-family: Impact  }
+.right {text-align: right;}
