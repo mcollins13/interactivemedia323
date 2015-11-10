@@ -1,0 +1,57 @@
+h4 {position: absolute; top: 213px;}
+.con {height: 200px; width: 500px; padding: 20px; position: relative;}
+.text {position: absolute; right: 0;}
+.test {position: absolute; right: 0; top: 30px; }
+span {float: right;}
+.window {border: 2px solid; width: 250px; height: 300; position: relative; padding-left: 10px}
+.mix {position: absolute; top: 140px;}
+a:visited {text-decoration: none}
+
+.stars a {
+    display: block;
+    color:#fdde81;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin: 5%;
+    position: fixed;
+   }
+   
+a:hover {color: #FFFFFF; -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      box-shadow: 1px 0px 20px yellow; }
+.stars a:hover {background: #fdde81}
+
+/*placement*/
+.one {right: -10px; bottom: -55px ;
+  line-height: 75px;
+      width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.two { right: -80px; bottom: -40px ;
+	 height:40px;
+     width:80px;
+     border-radius: 80px 80px 0 0;
+     -moz-border-radius: 80px 80px 0 0;
+     -webkit-border-radius: 80px 80px 0 0;
+     background:#fdde81;
+     	-ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+ 	}
+.three { bottom: -40px ;
+	right: 50px;
+	 height:40px;
+     width:80px;
+     border-radius: 80px 80px 0 0;
+     -moz-border-radius: 80px 80px 0 0;
+     -webkit-border-radius: 80px 80px 0 0;
+     background:#fdde81;
+     	-ms-transform: rotate(270deg); 
+    -webkit-transform: rotate(270deg); 
+    transform: rotate(270deg);}
