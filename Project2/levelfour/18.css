@@ -1,7 +1,7 @@
-body {background: black }
-p {color: #F9FBD5; letter-spacing:  90px}
-
-
+.large {border: 40px solid black;text-align: center;padding: 10px; font-style: italic;}
+.med {border: 25px solid black;text-align: center;padding: 10px;font-style: italic;} 
+.small {border: 15px solid black;text-align: center;padding: 10px;font-style: italic;}
+.tiny {border: 9px solid black;text-align: center;padding: 10px; font-family: impact; letter-spacing: 10px;}
 
 
 a:visited {text-decoration: none}

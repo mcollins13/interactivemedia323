@@ -1,7 +1,5 @@
-body {background: black }
-p {color: #F9FBD5; letter-spacing:  90px}
-
-
+div {font-family: Palatino; font-style: italic; letter-spacing: 10px}
+span {text-align: right;}
 
 
 a:visited {text-decoration: none}

@@ -1,0 +1,226 @@
+
+h1 { font-size: 40px; line-height: 25px}
+span {font-size: 15px}
+
+
+body{  background: rgba(31,0,17,1);
+background: -moz-linear-gradient(top, rgba(31,0,17,1) 0%, rgba(28,3,28,1) 34%, rgba(48,18,47,1) 83%, rgba(46,26,17,1) 92%, rgba(82,32,5,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(31,0,17,1)), color-stop(34%, rgba(28,3,28,1)), color-stop(83%, rgba(48,18,47,1)), color-stop(92%, rgba(46,26,17,1)), color-stop(100%, rgba(82,32,5,1)));
+background: -webkit-linear-gradient(top, rgba(31,0,17,1) 0%, rgba(28,3,28,1) 34%, rgba(48,18,47,1) 83%, rgba(46,26,17,1) 92%, rgba(82,32,5,1) 100%);
+background: -o-linear-gradient(top, rgba(31,0,17,1) 0%, rgba(28,3,28,1) 34%, rgba(48,18,47,1) 83%, rgba(46,26,17,1) 92%, rgba(82,32,5,1) 100%);
+background: -ms-linear-gradient(top, rgba(31,0,17,1) 0%, rgba(28,3,28,1) 34%, rgba(48,18,47,1) 83%, rgba(46,26,17,1) 92%, rgba(82,32,5,1) 100%);
+background: linear-gradient(to bottom, rgba(31,0,17,1) 0%, rgba(28,3,28,1) 34%, rgba(48,18,47,1) 83%, rgba(46,26,17,1) 92%, rgba(82,32,5,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f0011', endColorstr='#522005', GradientType=0 );}
+header {color:#fdde81}}
+a:visited {text-decoration: none}
+
+.stars a {
+    display: block;
+    
+    color:#fdde81;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    
+    margin: 5%;
+    position: absolute;
+   }
+   
+
+
+
+a:hover {color: #FFFFFF; -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      box-shadow: 1px 0px 20px yellow; }
+.stars a:hover {background: #fdde81}
+
+/*placement*/
+.one {left: 40px;
+  line-height: 75px;
+      width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.two {line-height: 55px;
+  left: 400px; 
+    height: 50px;
+    width: 50px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background-color: #fdde81;}
+
+.three {left: 600px; top: 40px;line-height: 75px; 
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81; }
+
+.four {left: 800px; top: 500px; line-height: 60px;
+      width: 60px;
+      height: 60px;
+      -moz-border-radius: 40px;
+      border-radius: 40px;
+      background-color: #fdde81;}
+
+.five {left: 120px; top: 400px; line-height: 70px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.six {left: 400px; top: 500px; line-height: 45px;
+    height: 40px;
+    width: 40px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #fdde81;
+    }
+
+.seven {left: 1px; top: 900px; line-height: 75px;
+   height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.eight {left: 300px; top: 800px;line-height: 75px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.nine {left: 600px; top: 600px; line-height: 70px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81; }
+
+.ten {left: 700px; top: 600px; line-height: 45px;
+    height: 70px;
+    width: 70px;
+    height: 40px;
+    width: 40px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #fdde81;}
+
+.eleven {left: 900px; top: 850px; line-height: 75px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.twelve {left: 800px; top: 830px; line-height: 60px;
+    height: 60px;
+    width: 60px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background-color: #fdde81;}
+
+.thirteen {left: 450px; top: 250px; line-height: 70px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.fourteen {left: 1200px; top: 400px; line-height: 70px;
+    height: 70px;
+    width: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.fifteen {left: 1100px; top: 600px; line-height: 70px;
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;
+          
+          }
+
+.sixteen {left: 1000px; top: 40px; line-height: 70px;
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;
+        }
+
+.seventeen { 
+left: 600px; top: 300px; line-height: 60px; 
+    width: 60px;
+    height: 60px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background-color: #fdde81;}
+
+.eighteen {
+    left: 1000px; top: 300px; line-height: 70px;
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.ninteen {left: 900px; top:200px; line-height: 45px; 
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #fdde81;
+  }
+
+.twenty {left: 1200px; top: 1px; line-height: 70px; 
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.twentyone {left: 1px; top: 500px;  line-height: 45px;
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #fdde81;}
+
+.twentytwo {left: 1200px; top: 1000px;  line-height: 45px;
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #fdde81;}
+
+.twentythree {left: 200px; top: 600px; line-height: 60px;
+width: 60px;
+    height: 60px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background-color: #fdde81;}
+
+.twentyfour {left: 800px; top: 1000px; line-height: 60px;
+width: 60px;
+    height: 60px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background-color: #fdde81;}
+
+.twentyfive {left: 400px; top: 1000px; line-height: 60px;
+width: 60px;
+    height: 60px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background-color: #fdde81;}
+
+

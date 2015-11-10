@@ -12,7 +12,7 @@ height: 500px;
 left: 100px;}
 .canvas {width: 700px; height: 800px; }
 .object {position: absolute;}
-h4 {text-align: center; color:#E9EE8E;}
+h4 {float: right; color:#c7c28c; font-family: Arial; font-size: 15px}
 body {background: rgba(24,14,38,1);
 background: -moz-linear-gradient(top, rgba(24,14,38,1) 0%, rgba(36,32,48,1) 42%, rgba(47,36,66,1) 54%, rgba(102,51,107,1) 68%, rgba(184,141,76,1) 100%);
 background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(24,14,38,1)), color-stop(42%, rgba(36,32,48,1)), color-stop(54%, rgba(47,36,66,1)), color-stop(68%, rgba(102,51,107,1)), color-stop(100%, rgba(184,141,76,1)));
@@ -21,3 +21,57 @@ background: -o-linear-gradient(top, rgba(24,14,38,1) 0%, rgba(36,32,48,1) 42%, r
 background: -ms-linear-gradient(top, rgba(24,14,38,1) 0%, rgba(36,32,48,1) 42%, rgba(47,36,66,1) 54%, rgba(102,51,107,1) 68%, rgba(184,141,76,1) 100%);
 background: linear-gradient(to bottom, rgba(24,14,38,1) 0%, rgba(36,32,48,1) 42%, rgba(47,36,66,1) 54%, rgba(102,51,107,1) 68%, rgba(184,141,76,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#180e26', endColorstr='#b88d4c', GradientType=0 );}
+
+
+
+
+a:visited {text-decoration: none}
+
+.stars a {
+    display: block;
+    color:#fdde81;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin: 5%;
+    position: fixed;
+   }
+   
+a:hover {color: #FFFFFF; -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      box-shadow: 1px 0px 20px yellow; }
+.stars a:hover {background: #fdde81}
+
+/*placement*/
+.one {right: -10px; bottom: -55px ;
+  line-height: 75px;
+      width: 70px;
+    height: 70px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #fdde81;}
+
+.two { right: -80px; bottom: -40px ;
+	 height:40px;
+     width:80px;
+     border-radius: 80px 80px 0 0;
+     -moz-border-radius: 80px 80px 0 0;
+     -webkit-border-radius: 80px 80px 0 0;
+     background:#fdde81;
+     	-ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+ 	}
+.three { bottom: -40px ;
+	right: 50px;
+	 height:40px;
+     width:80px;
+     border-radius: 80px 80px 0 0;
+     -moz-border-radius: 80px 80px 0 0;
+     -webkit-border-radius: 80px 80px 0 0;
+     background:#fdde81;
+     	-ms-transform: rotate(270deg); 
+    -webkit-transform: rotate(270deg); 
+    transform: rotate(270deg);}

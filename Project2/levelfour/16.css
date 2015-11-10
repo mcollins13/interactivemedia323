@@ -1,7 +1,5 @@
-body {background: black }
-p {color: #F9FBD5; letter-spacing:  90px}
-
-
+p {text-align: center; letter-spacing: 10px}
+span {font-family: impact}
 
 
 a:visited {text-decoration: none}
