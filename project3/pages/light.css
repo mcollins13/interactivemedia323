@@ -1,0 +1,6 @@
+span {color: white; font-family: Palatino}
+p {font-family: sans-serif; font-size: 40px; position: relative; top: 500px; text-align: center }
+#gray {color: #f3f3f3}
+a:visited {color: black}
+a {text-decoration: none; }
+#glow:hover { text-shadow: 0 0 .2em black}
