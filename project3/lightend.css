@@ -1,11 +1,15 @@
 span {color: white; font-family: Palatino}
 p {font-family: sans-serif; font-size: 40px; position: relative; top: 500px; padding-left: 50px }
 #white {color: #f3f3f3}
+#white:hover { text-shadow: 0 0 .2em black}
 a:visited {color: black}
 a {text-decoration: none; color:black; }
 #glow:hover { text-shadow: 0 0 .2em black}
 #glow {font-weight:  bold}
 #gray {color:#5e5e5e; font-family: sans-serif;}
+
+
+.circle:hover { background: gray}
 
 .circle { width: 100px; height: 100px; 
 	background: black; -moz-border-radius: 50px;

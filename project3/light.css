@@ -1,6 +1,7 @@
 span {color: white; font-family: Palatino}
 p {font-family: sans-serif; font-size: 40px; position: relative; top: 500px; text-align: center }
 #white {color: #f3f3f3}
+#white:hover { text-shadow: 0 0 .2em black}
 a:visited {color: black}
 a {text-decoration: none; color:black; }
 #glow:hover { text-shadow: 0 0 .2em black}

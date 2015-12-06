@@ -9,7 +9,8 @@ a {text-decoration: none; color:black; }
 
 /* dark link*/
 #gray {color:#1d1d1d; font-family: sans-serif;}
+#gray:hover { text-shadow: 0 0 .2em white}
 body {background-color: black}
 
 /*toned white*/
-#lgray {color: #bebebe}
+#lgray {color: #939393}

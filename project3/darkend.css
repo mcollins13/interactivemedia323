@@ -8,7 +8,7 @@ a {text-decoration: none; color:black; }
 #gray {color:#bebebe; font-family: Palatino;}
 
 
-
+.circle:hover { background: gray}
 .circle { width: 100px; height: 100px; 
 	background: white; -moz-border-radius: 50px;
 	 -webkit-border-radius: 50px; border-radius: 50px;
